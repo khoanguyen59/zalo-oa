@@ -1,0 +1,13 @@
+version: '2'
+services:
+  webserverwp:
+    restart: always
+    build: ./webserver
+    container_name: nginx-server-ws
+    ports:
+      - "8081:80"
+
+    tty: true
+    volumes:
+      - .:/var/www/html
+      - ./logs:/var/log/dev-log

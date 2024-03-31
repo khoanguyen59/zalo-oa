@@ -1,0 +1,27 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Bundle\FrameworkBundle\Console\Application;
+use Symfony\Component\Dotenv\Dotenv;
+use Zalo\Zalo;
+use App\Commands\GetTagsCommand;
+use App\Commands\GetFollowersCommand;
+use App\Service\ZaloService;
+use App\Kernel;
+ 
+$dotenv = new Dotenv();
+$dotenv->load(__DIR__.'/../.env');
+
+$config = array(
+    'app_id' => $_ENV['APP_ID'],
+    'app_secret' => $_ENV['SECRET_KEY']
+);
+$zalo = new Zalo($config);
+$zaloService = new ZaloService($zalo);
+
+$kernel = new Kernel($_SERVER['APP_ENV'], (bool) $_SERVER['APP_DEBUG']);
+$app = new Application($kernel);
+$app->add(new GetTagsCommand($zaloService));
+$app->add(new GetFollowersCommand($zaloService));
+$app->run();

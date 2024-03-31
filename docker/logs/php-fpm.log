@@ -1,0 +1,340 @@
+[13-Aug-2020 09:59:37] NOTICE: fpm is running, pid 42
+[13-Aug-2020 09:59:37] NOTICE: ready to handle connections
+[13-Aug-2020 09:59:37] NOTICE: systemd monitor interval set to 10000ms
+[13-Aug-2020 10:08:40] NOTICE: Finishing ...
+[13-Aug-2020 10:08:40] NOTICE: exiting, bye-bye!
+[13-Aug-2020 10:08:40] NOTICE: fpm is running, pid 143
+[13-Aug-2020 10:08:40] NOTICE: ready to handle connections
+[13-Aug-2020 10:08:40] NOTICE: systemd monitor interval set to 10000ms
+[13-Aug-2020 10:09:07] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:07] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:08] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:08] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:10] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:10] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:13] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:13] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:17] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:17] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:18] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:18] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:20] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:20] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:23] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.4-fpm.sock
+[13-Aug-2020 10:09:23] ERROR: FPM initialization failed
+[13-Aug-2020 10:09:40] NOTICE: Finishing ...
+[13-Aug-2020 10:09:40] NOTICE: exiting, bye-bye!
+[13-Aug-2020 10:09:40] NOTICE: fpm is running, pid 219
+[13-Aug-2020 10:09:40] NOTICE: ready to handle connections
+[13-Aug-2020 10:09:40] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2020 08:42:15] NOTICE: Finishing ...
+[18-Aug-2020 08:42:15] NOTICE: exiting, bye-bye!
+[18-Aug-2020 08:42:21] NOTICE: fpm is running, pid 1355
+[18-Aug-2020 08:42:21] NOTICE: ready to handle connections
+[18-Aug-2020 08:42:21] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2020 08:44:50] NOTICE: fpm is running, pid 43
+[18-Aug-2020 08:44:51] NOTICE: ready to handle connections
+[18-Aug-2020 08:44:51] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2020 09:58:14] NOTICE: Terminating ...
+[18-Aug-2020 09:58:14] NOTICE: exiting, bye-bye!
+[18-Aug-2020 09:58:15] NOTICE: fpm is running, pid 1035
+[18-Aug-2020 09:58:15] NOTICE: ready to handle connections
+[18-Aug-2020 09:58:15] NOTICE: systemd monitor interval set to 10000ms
+[20-Aug-2020 03:42:08] NOTICE: fpm is running, pid 42
+[20-Aug-2020 03:42:08] NOTICE: ready to handle connections
+[20-Aug-2020 03:42:08] NOTICE: systemd monitor interval set to 10000ms
+[21-Aug-2020 08:28:07] NOTICE: fpm is running, pid 71
+[21-Aug-2020 08:28:07] NOTICE: ready to handle connections
+[21-Aug-2020 08:28:07] NOTICE: systemd monitor interval set to 10000ms
+[27-Aug-2020 04:30:09] NOTICE: fpm is running, pid 48
+[27-Aug-2020 04:30:09] NOTICE: ready to handle connections
+[27-Aug-2020 04:30:09] NOTICE: systemd monitor interval set to 10000ms
+[28-Aug-2020 08:32:08] WARNING: [pool www] child 60 exited on signal 7 (SIGBUS) after 48704.434462 seconds from start
+[28-Aug-2020 08:32:08] NOTICE: [pool www] child 145 started
+[28-Aug-2020 08:32:21] WARNING: [pool www] child 64 exited on signal 7 (SIGBUS) after 48717.618466 seconds from start
+[28-Aug-2020 08:32:21] NOTICE: [pool www] child 146 started
+[28-Aug-2020 08:32:22] WARNING: [pool www] child 61 exited on signal 7 (SIGBUS) after 48718.350433 seconds from start
+[28-Aug-2020 08:32:22] NOTICE: [pool www] child 147 started
+[28-Aug-2020 08:32:22] WARNING: [pool www] child 63 exited on signal 7 (SIGBUS) after 48719.065648 seconds from start
+[28-Aug-2020 08:32:22] NOTICE: [pool www] child 148 started
+[28-Aug-2020 08:32:40] WARNING: [pool www] child 70 exited on signal 7 (SIGBUS) after 48736.333217 seconds from start
+[28-Aug-2020 08:32:40] NOTICE: [pool www] child 149 started
+[28-Aug-2020 08:32:41] WARNING: [pool www] child 71 exited on signal 7 (SIGBUS) after 48737.554845 seconds from start
+[28-Aug-2020 08:32:41] NOTICE: [pool www] child 150 started
+[28-Aug-2020 08:32:41] WARNING: [pool www] child 67 exited on signal 7 (SIGBUS) after 48738.166972 seconds from start
+[28-Aug-2020 08:32:41] NOTICE: [pool www] child 151 started
+[28-Aug-2020 08:32:42] WARNING: [pool www] child 76 exited on signal 7 (SIGBUS) after 48725.619450 seconds from start
+[28-Aug-2020 08:32:42] NOTICE: [pool www] child 152 started
+[28-Aug-2020 08:32:42] WARNING: [pool www] child 57 exited on signal 7 (SIGBUS) after 48738.799996 seconds from start
+[28-Aug-2020 08:32:42] NOTICE: [pool www] child 153 started
+[28-Aug-2020 08:32:42] WARNING: [pool www] child 54 exited on signal 7 (SIGBUS) after 48739.069024 seconds from start
+[28-Aug-2020 08:32:42] NOTICE: [pool www] child 154 started
+[28-Aug-2020 08:32:43] WARNING: [pool www] child 58 exited on signal 7 (SIGBUS) after 48740.163251 seconds from start
+[28-Aug-2020 08:32:43] NOTICE: [pool www] child 155 started
+[28-Aug-2020 08:32:47] WARNING: [pool www] child 59 exited on signal 7 (SIGBUS) after 48743.843327 seconds from start
+[28-Aug-2020 08:32:47] NOTICE: [pool www] child 156 started
+[28-Aug-2020 08:32:47] WARNING: [pool www] child 146 exited on signal 7 (SIGBUS) after 26.498021 seconds from start
+[28-Aug-2020 08:32:47] NOTICE: [pool www] child 157 started
+[28-Aug-2020 08:32:56] WARNING: [pool www] child 147 exited on signal 7 (SIGBUS) after 34.535821 seconds from start
+[28-Aug-2020 08:32:56] NOTICE: [pool www] child 158 started
+[28-Aug-2020 08:36:09] NOTICE: fpm is running, pid 44
+[28-Aug-2020 08:36:09] NOTICE: ready to handle connections
+[28-Aug-2020 08:36:09] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 04:38:34] NOTICE: fpm is running, pid 50
+[01-Sep-2020 04:38:34] NOTICE: ready to handle connections
+[01-Sep-2020 04:38:34] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 08:22:48] NOTICE: Terminating ...
+[01-Sep-2020 08:22:48] NOTICE: exiting, bye-bye!
+[01-Sep-2020 08:24:37] NOTICE: fpm is running, pid 1513
+[01-Sep-2020 08:24:37] NOTICE: ready to handle connections
+[01-Sep-2020 08:24:37] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 08:26:11] NOTICE: Finishing ...
+[01-Sep-2020 08:26:11] NOTICE: exiting, bye-bye!
+[01-Sep-2020 08:26:11] NOTICE: fpm is running, pid 1553
+[01-Sep-2020 08:26:11] NOTICE: ready to handle connections
+[01-Sep-2020 08:26:11] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 08:28:45] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 08:28:45] ERROR: FPM initialization failed
+[01-Sep-2020 08:28:46] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 08:28:46] ERROR: FPM initialization failed
+[01-Sep-2020 08:28:48] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 08:28:48] ERROR: FPM initialization failed
+[01-Sep-2020 08:28:52] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 08:28:52] ERROR: FPM initialization failed
+[01-Sep-2020 09:02:52] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:02:52] ERROR: FPM initialization failed
+[01-Sep-2020 09:02:53] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:02:53] ERROR: FPM initialization failed
+[01-Sep-2020 09:02:55] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:02:55] ERROR: FPM initialization failed
+[01-Sep-2020 09:02:58] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:02:58] ERROR: FPM initialization failed
+[01-Sep-2020 09:03:41] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:03:41] ERROR: FPM initialization failed
+[01-Sep-2020 09:03:42] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:03:42] ERROR: FPM initialization failed
+[01-Sep-2020 09:03:44] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:03:44] ERROR: FPM initialization failed
+[01-Sep-2020 09:03:47] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:03:47] ERROR: FPM initialization failed
+[01-Sep-2020 09:47:31] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:47:31] ERROR: FPM initialization failed
+[01-Sep-2020 09:47:32] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:47:32] ERROR: FPM initialization failed
+[01-Sep-2020 09:47:34] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:47:34] ERROR: FPM initialization failed
+[01-Sep-2020 09:47:37] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:47:37] ERROR: FPM initialization failed
+[01-Sep-2020 09:52:58] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:52:58] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:00] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:00] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:02] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:02] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:05] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:05] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:09] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:09] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:10] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:10] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:12] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:12] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:15] ERROR: An another FPM instance seems to already listen on /var/run/php/php7.2-fpm.sock
+[01-Sep-2020 09:53:15] ERROR: FPM initialization failed
+[01-Sep-2020 09:53:51] NOTICE: fpm is running, pid 47
+[01-Sep-2020 09:53:51] NOTICE: ready to handle connections
+[01-Sep-2020 09:53:51] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 09:58:52] NOTICE: Terminating ...
+[01-Sep-2020 09:58:52] NOTICE: exiting, bye-bye!
+[01-Sep-2020 09:58:53] NOTICE: fpm is running, pid 81
+[01-Sep-2020 09:58:53] NOTICE: ready to handle connections
+[01-Sep-2020 09:58:53] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2020 10:01:32] NOTICE: Finishing ...
+[01-Sep-2020 10:01:32] NOTICE: exiting, bye-bye!
+[01-Sep-2020 10:01:32] NOTICE: fpm is running, pid 126
+[01-Sep-2020 10:01:32] NOTICE: ready to handle connections
+[01-Sep-2020 10:01:32] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2020 09:05:05] NOTICE: fpm is running, pid 42
+[07-Sep-2020 09:05:05] NOTICE: ready to handle connections
+[07-Sep-2020 09:05:05] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2020 10:19:09] WARNING: [pool www] child 53 exited on signal 7 (SIGBUS) after 4443.739467 seconds from start
+[07-Sep-2020 10:19:09] NOTICE: [pool www] child 308 started
+[07-Sep-2020 10:19:12] WARNING: [pool www] child 56 exited on signal 7 (SIGBUS) after 4446.496446 seconds from start
+[07-Sep-2020 10:19:12] NOTICE: [pool www] child 309 started
+[07-Sep-2020 10:19:13] WARNING: [pool www] child 57 exited on signal 7 (SIGBUS) after 4447.727959 seconds from start
+[07-Sep-2020 10:19:13] NOTICE: [pool www] child 310 started
+[07-Sep-2020 10:19:14] WARNING: [pool www] child 59 exited on signal 7 (SIGBUS) after 4448.411809 seconds from start
+[07-Sep-2020 10:19:14] NOTICE: [pool www] child 311 started
+[07-Sep-2020 10:19:17] WARNING: [pool www] child 306 exited on signal 7 (SIGBUS) after 1398.599650 seconds from start
+[07-Sep-2020 10:19:17] NOTICE: [pool www] child 312 started
+[07-Sep-2020 10:19:19] WARNING: [pool www] child 52 exited on signal 7 (SIGBUS) after 4454.190965 seconds from start
+[07-Sep-2020 10:19:19] NOTICE: [pool www] child 313 started
+[07-Sep-2020 10:19:20] WARNING: [pool www] child 64 exited on signal 7 (SIGBUS) after 4454.669033 seconds from start
+[07-Sep-2020 10:19:20] NOTICE: [pool www] child 314 started
+[07-Sep-2020 10:19:20] WARNING: [pool www] child 65 exited on signal 7 (SIGBUS) after 4454.827754 seconds from start
+[07-Sep-2020 10:19:20] NOTICE: [pool www] child 315 started
+[07-Sep-2020 10:19:34] WARNING: [pool www] child 47 exited on signal 7 (SIGBUS) after 4468.605977 seconds from start
+[07-Sep-2020 10:19:34] NOTICE: [pool www] child 316 started
+[07-Sep-2020 10:19:36] WARNING: [pool www] child 68 exited on signal 7 (SIGBUS) after 4458.025296 seconds from start
+[07-Sep-2020 10:19:36] NOTICE: [pool www] child 317 started
+[07-Sep-2020 10:19:38] WARNING: [pool www] child 48 exited on signal 7 (SIGBUS) after 4473.083401 seconds from start
+[07-Sep-2020 10:19:38] NOTICE: [pool www] child 318 started
+[07-Sep-2020 10:22:08] NOTICE: fpm is running, pid 42
+[07-Sep-2020 10:22:08] NOTICE: ready to handle connections
+[07-Sep-2020 10:22:08] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 02:59:43] NOTICE: fpm is running, pid 42
+[10-Sep-2020 02:59:43] NOTICE: ready to handle connections
+[10-Sep-2020 02:59:43] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 03:24:58] NOTICE: fpm is running, pid 43
+[10-Sep-2020 03:24:58] NOTICE: ready to handle connections
+[10-Sep-2020 03:24:58] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 04:02:37] NOTICE: fpm is running, pid 42
+[10-Sep-2020 04:02:37] NOTICE: ready to handle connections
+[10-Sep-2020 04:02:37] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 04:55:14] NOTICE: fpm is running, pid 42
+[10-Sep-2020 04:55:14] NOTICE: ready to handle connections
+[10-Sep-2020 04:55:14] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 05:02:06] NOTICE: fpm is running, pid 42
+[10-Sep-2020 05:02:06] NOTICE: ready to handle connections
+[10-Sep-2020 05:02:06] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 06:14:58] NOTICE: fpm is running, pid 42
+[10-Sep-2020 06:14:58] NOTICE: ready to handle connections
+[10-Sep-2020 06:14:58] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 06:24:56] WARNING: [pool www] child 50 exited on signal 7 (SIGBUS) after 598.799898 seconds from start
+[10-Sep-2020 06:24:56] NOTICE: [pool www] child 68 started
+[10-Sep-2020 06:31:20] NOTICE: fpm is running, pid 42
+[10-Sep-2020 06:31:20] NOTICE: ready to handle connections
+[10-Sep-2020 06:31:20] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 06:32:23] WARNING: [pool www] child 48 exited on signal 7 (SIGBUS) after 62.299588 seconds from start
+[10-Sep-2020 06:32:23] NOTICE: [pool www] child 67 started
+[10-Sep-2020 06:32:24] WARNING: [pool www] child 51 exited on signal 7 (SIGBUS) after 63.996544 seconds from start
+[10-Sep-2020 06:32:24] NOTICE: [pool www] child 68 started
+[10-Sep-2020 06:32:25] WARNING: [pool www] child 53 exited on signal 7 (SIGBUS) after 64.729484 seconds from start
+[10-Sep-2020 06:32:25] NOTICE: [pool www] child 69 started
+[10-Sep-2020 06:32:25] WARNING: [pool www] child 55 exited on signal 7 (SIGBUS) after 64.879533 seconds from start
+[10-Sep-2020 06:32:25] NOTICE: [pool www] child 70 started
+[10-Sep-2020 06:32:25] WARNING: [pool www] child 57 exited on signal 7 (SIGBUS) after 65.008602 seconds from start
+[10-Sep-2020 06:32:25] NOTICE: [pool www] child 71 started
+[10-Sep-2020 06:32:26] WARNING: [pool www] child 59 exited on signal 7 (SIGBUS) after 65.518255 seconds from start
+[10-Sep-2020 06:32:26] NOTICE: [pool www] child 72 started
+[10-Sep-2020 06:32:26] WARNING: [pool www] child 62 exited on signal 7 (SIGBUS) after 65.632031 seconds from start
+[10-Sep-2020 06:32:26] NOTICE: [pool www] child 73 started
+[10-Sep-2020 06:32:26] WARNING: [pool www] child 63 exited on signal 7 (SIGBUS) after 65.764873 seconds from start
+[10-Sep-2020 06:32:26] NOTICE: [pool www] child 74 started
+[10-Sep-2020 06:32:26] WARNING: [pool www] child 54 exited on signal 7 (SIGBUS) after 65.905139 seconds from start
+[10-Sep-2020 06:32:26] NOTICE: [pool www] child 75 started
+[10-Sep-2020 06:32:32] WARNING: [pool www] child 66 exited on signal 7 (SIGBUS) after 60.088722 seconds from start
+[10-Sep-2020 06:32:32] NOTICE: [pool www] child 76 started
+[10-Sep-2020 06:36:52] NOTICE: fpm is running, pid 42
+[10-Sep-2020 06:36:52] NOTICE: ready to handle connections
+[10-Sep-2020 06:36:52] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 06:46:07] NOTICE: fpm is running, pid 47
+[10-Sep-2020 06:46:07] NOTICE: ready to handle connections
+[10-Sep-2020 06:46:07] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2020 07:01:41] WARNING: [pool www] child 60 exited on signal 7 (SIGBUS) after 934.059770 seconds from start
+[10-Sep-2020 07:01:41] NOTICE: [pool www] child 74 started
+[10-Sep-2020 07:01:41] WARNING: [pool www] child 62 exited on signal 7 (SIGBUS) after 934.062534 seconds from start
+[10-Sep-2020 07:01:41] NOTICE: [pool www] child 75 started
+[10-Sep-2020 07:13:08] NOTICE: fpm is running, pid 42
+[10-Sep-2020 07:13:08] NOTICE: ready to handle connections
+[10-Sep-2020 07:13:08] NOTICE: systemd monitor interval set to 10000ms
+[15-Sep-2020 04:23:45] NOTICE: fpm is running, pid 48
+[15-Sep-2020 04:23:45] NOTICE: ready to handle connections
+[15-Sep-2020 04:23:45] NOTICE: systemd monitor interval set to 10000ms
+[15-Sep-2020 07:11:51] NOTICE: fpm is running, pid 42
+[15-Sep-2020 07:11:51] NOTICE: ready to handle connections
+[15-Sep-2020 07:11:51] NOTICE: systemd monitor interval set to 10000ms
+[15-Sep-2020 09:52:44] NOTICE: fpm is running, pid 42
+[15-Sep-2020 09:52:44] NOTICE: ready to handle connections
+[15-Sep-2020 09:52:44] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 03:00:33] NOTICE: fpm is running, pid 42
+[16-Sep-2020 03:00:33] NOTICE: ready to handle connections
+[16-Sep-2020 03:00:33] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 03:39:53] NOTICE: fpm is running, pid 43
+[16-Sep-2020 03:39:53] NOTICE: ready to handle connections
+[16-Sep-2020 03:39:53] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 03:44:37] NOTICE: fpm is running, pid 42
+[16-Sep-2020 03:44:37] NOTICE: ready to handle connections
+[16-Sep-2020 03:44:37] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 03:51:07] WARNING: [pool www] child 52 exited on signal 7 (SIGBUS) after 389.423208 seconds from start
+[16-Sep-2020 03:51:07] NOTICE: [pool www] child 67 started
+[16-Sep-2020 04:45:00] NOTICE: fpm is running, pid 44
+[16-Sep-2020 04:45:00] NOTICE: ready to handle connections
+[16-Sep-2020 04:45:00] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 06:54:51] NOTICE: fpm is running, pid 43
+[16-Sep-2020 06:54:51] NOTICE: ready to handle connections
+[16-Sep-2020 06:54:51] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 07:01:09] NOTICE: fpm is running, pid 42
+[16-Sep-2020 07:01:09] NOTICE: ready to handle connections
+[16-Sep-2020 07:01:09] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 07:06:42] WARNING: [pool www] child 49 exited on signal 7 (SIGBUS) after 332.412808 seconds from start
+[16-Sep-2020 07:06:42] NOTICE: [pool www] child 69 started
+[16-Sep-2020 07:10:51] NOTICE: fpm is running, pid 50
+[16-Sep-2020 07:10:51] NOTICE: ready to handle connections
+[16-Sep-2020 07:10:51] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 07:23:51] NOTICE: fpm is running, pid 44
+[16-Sep-2020 07:23:52] NOTICE: ready to handle connections
+[16-Sep-2020 07:23:52] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 07:45:18] NOTICE: fpm is running, pid 42
+[16-Sep-2020 07:45:18] NOTICE: ready to handle connections
+[16-Sep-2020 07:45:18] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 08:40:48] NOTICE: fpm is running, pid 42
+[16-Sep-2020 08:40:48] NOTICE: ready to handle connections
+[16-Sep-2020 08:40:48] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 08:49:35] NOTICE: fpm is running, pid 43
+[16-Sep-2020 08:49:35] NOTICE: ready to handle connections
+[16-Sep-2020 08:49:35] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 08:57:57] NOTICE: fpm is running, pid 43
+[16-Sep-2020 08:57:57] NOTICE: ready to handle connections
+[16-Sep-2020 08:57:57] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 11:03:25] NOTICE: fpm is running, pid 44
+[16-Sep-2020 11:03:25] NOTICE: ready to handle connections
+[16-Sep-2020 11:03:25] NOTICE: systemd monitor interval set to 10000ms
+[16-Sep-2020 11:22:26] NOTICE: fpm is running, pid 42
+[16-Sep-2020 11:22:26] NOTICE: ready to handle connections
+[16-Sep-2020 11:22:26] NOTICE: systemd monitor interval set to 10000ms
+[17-Sep-2020 02:16:38] NOTICE: fpm is running, pid 42
+[17-Sep-2020 02:16:38] NOTICE: ready to handle connections
+[17-Sep-2020 02:16:38] NOTICE: systemd monitor interval set to 10000ms
+[17-Sep-2020 02:42:38] NOTICE: fpm is running, pid 43
+[17-Sep-2020 02:42:38] NOTICE: ready to handle connections
+[17-Sep-2020 02:42:38] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 02:51:54] NOTICE: fpm is running, pid 43
+[21-Sep-2020 02:51:54] NOTICE: ready to handle connections
+[21-Sep-2020 02:51:54] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 03:00:43] NOTICE: fpm is running, pid 42
+[21-Sep-2020 03:00:43] NOTICE: ready to handle connections
+[21-Sep-2020 03:00:43] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 06:53:24] WARNING: [pool www] child 64 exited on signal 7 (SIGBUS) after 13961.149363 seconds from start
+[21-Sep-2020 06:53:24] NOTICE: [pool www] child 72 started
+[21-Sep-2020 06:54:44] NOTICE: fpm is running, pid 44
+[21-Sep-2020 06:54:44] NOTICE: ready to handle connections
+[21-Sep-2020 06:54:44] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 07:29:06] NOTICE: fpm is running, pid 45
+[21-Sep-2020 07:29:06] NOTICE: ready to handle connections
+[21-Sep-2020 07:29:06] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 09:02:42] NOTICE: fpm is running, pid 42
+[21-Sep-2020 09:02:42] NOTICE: ready to handle connections
+[21-Sep-2020 09:02:42] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2020 09:32:29] NOTICE: fpm is running, pid 43
+[21-Sep-2020 09:32:29] NOTICE: ready to handle connections
+[21-Sep-2020 09:32:29] NOTICE: systemd monitor interval set to 10000ms
+[28-Sep-2020 08:54:49] NOTICE: fpm is running, pid 42
+[28-Sep-2020 08:54:49] NOTICE: ready to handle connections
+[28-Sep-2020 08:54:49] NOTICE: systemd monitor interval set to 10000ms
+[28-Sep-2020 10:11:54] NOTICE: fpm is running, pid 42
+[28-Sep-2020 10:11:54] NOTICE: ready to handle connections
+[28-Sep-2020 10:11:54] NOTICE: systemd monitor interval set to 10000ms
+[29-Sep-2020 04:03:48] WARNING: [pool www] child 61 exited on signal 7 (SIGBUS) after 64314.255711 seconds from start
+[29-Sep-2020 04:03:48] NOTICE: [pool www] child 825 started
+[29-Sep-2020 10:02:53] NOTICE: fpm is running, pid 43
+[29-Sep-2020 10:02:53] NOTICE: ready to handle connections
+[29-Sep-2020 10:02:53] NOTICE: systemd monitor interval set to 10000ms
+[29-Sep-2020 10:10:21] NOTICE: Terminating ...
+[29-Sep-2020 10:10:21] NOTICE: exiting, bye-bye!
+[29-Sep-2020 10:10:26] NOTICE: fpm is running, pid 162
+[29-Sep-2020 10:10:26] NOTICE: ready to handle connections
+[29-Sep-2020 10:10:26] NOTICE: systemd monitor interval set to 10000ms
+[07-Oct-2020 04:12:28] NOTICE: fpm is running, pid 42
+[07-Oct-2020 04:12:28] NOTICE: ready to handle connections
+[07-Oct-2020 04:12:28] NOTICE: systemd monitor interval set to 10000ms
